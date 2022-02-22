@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 morning
-branch
-=======
-morning 
-branch
->>>>>>> feature1
+branch 1
